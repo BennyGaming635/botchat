@@ -1,7 +1,6 @@
 import nltk
 from nltk.chat.util import Chat, reflections
 
-# Ensure you have the necessary NLTK data files
 nltk.download('punkt')
 
 pairs = [
